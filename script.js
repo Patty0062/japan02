@@ -89,115 +89,7 @@ const spotGuides = {
         ]
     }
 };
-const spotGuides = {
-    kinshicho: {
-        title: "🏨 錦糸町：下町生活感與隱藏版美食",
-        img: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/05/a0005776/img/zh-tw/a0005776_parts_68c9eae462026.jpg?20260107151700&q=80&rw=620&rw=443",
-        eat: [
-            "<strong>真鯛拉麵 麵魚:</strong> 濃郁鮮美的烤鯛魚骨高湯，配上煙燻叉燒，錦糸町代表性拉麵！"<br> <strong> 營業時間：11:00～21:00"  ,
-            "<strong>らーめん一途（一途拉麵／Ramen Ichizu）:</strong> 招牌背脂醬油拉麵湯頭濃郁卻不顯油膩，搭配 Q 彈麵條與厚切叉燒，份量十足且價格實惠，CP 值相當高，用餐時段經常需要排隊。"<br> <strong> 營業時間：11:00～15:00、17:00～22:00",
-            "<strong>立食壽司 根室花まる 錦糸町Termina店:</strong> 店內提供鮭魚、干貝、海膽、甜蝦等新鮮握壽司，以站著吃的方式享受高CP值美味。" <br> <strong> 營業時間：11:00～21:00（最後點餐時間20:30）",
-            "<strong>喫茶 マウンテン（Café Mountain）:</strong> 店內充滿昭和復古氛圍，除了招牌厚鬆餅外，季節限定水果三明治也深受歡迎，是悠閒享用早餐或早午餐的人氣選擇。" <br> <strong> 營業時間：8:00～18:00",
-            "<strong>錦糸町小町食堂（Komachi Shokudo Kinshicho）:</strong> 店內採用自助取餐方式，陳列了多達數十種家常料理與小菜，從烤魚、生魚片、炸物到煮物應有盡有，顧客可以自由組合出喜愛的定食組合。無論是清晨想來碗熱騰騰的白飯與味噌湯，或是宵夜時段想吃點小菜配酒，這裡都能隨時滿足你的胃。" <br> <strong> 營業時間：24小時營業",
-            "<strong>鳥貴族 錦糸町店:</strong> 全品項均一價的平價串燒，必點「貴族燒（醬燒/鹽味雞肉串）」與金麥啤酒！",
-            "<strong>山田家 人形燒:</strong> 錦糸町百年古早味，造型可愛、紅豆餡香甜濃郁的現做人形燒。"
-        ],
 
-        buy: [
-            "<strong>ARCAKIT 錦糸町:</strong> 車站旁整棟購物中心，有巨型 DAISO 旗艦店與商品超齊全的 Uniqlo。",
-            "<strong>錦糸町 PARCO:</strong> B1 美食街聚集在地人氣名店，高層樓還有無印良品與動漫選品店。",
-            "<strong>丸井（0101）錦糸町店:</strong> 流行服飾、美妝、生活雜貨與餐飲品牌外，還有診所、藥局等生活機能店舖，地下樓層設有超市，適合旅途中順道採買。",
-            "<strong>友都八喜（Yodobashi）Multimedia 錦糸町:</strong> 位於 JR 錦糸町站南口直結的車站商場 Termina 內，販售家電、3C、相機、美容家電、玩具及生活用品等商品，品項相當齊全。店內提供免稅服務，是採購電器與數位產品的人氣購物地點。",
-            "<strong>西友（SEIYU）錦糸町店:</strong> 店內販售生鮮食品、熟食、零食、飲料及日用品，商品價格實惠，且全年24小時營業，非常適合旅途中採買宵夜、早餐或伴手禮。",
-            "<strong>OLINAS 錦糸町:</strong> 館內匯集家電、運動用品、生活雜貨、流行服飾及大型超市等品牌，週末經常吸引不少家庭客前來逛街。逛完東京晴空塔後，也很適合順道到 OLINAS 採買與用餐。",
-            "<strong>唐吉訶德 錦糸町北口店:</strong> 唐吉訶德錦糸町北口店距離 JR 錦糸町站北口步行約3分鐘，販售零食、藥妝、美妝、家電、動漫周邊及旅行用品等各式商品，是不少旅客最後採買伴手禮的熱門地點。店內提供免稅服務，且營業至凌晨4點。",
-            "<strong>松本清（マツモトキヨシ）錦糸町站大樓店:</strong> 出站即可抵達，交通相當便利。店內販售各式藥品、美妝、保健食品及生活用品。"
-        ],
-
-        go: [
-            "<strong>錦糸公園:</strong> 櫻花季賞櫻名所，平時也是遠眺晴空塔全景的在地私房角度！",
-            "<strong>龜戶天神社:</strong> 以梅花、紫藤及菊花聞名，每年4月下旬至5月上旬舉辦的「藤まつり（紫藤祭）」更吸引大批遊客前來賞花，境內還能同時拍到神社與東京晴空塔。",
-            "<strong>墨田江戶切子館:</strong> 欣賞東京傳統精細玻璃雕刻工藝，感受濃濃下町職人精神。"
-        ]
-    },
-    shibuya: {
-        title: "💚 澀谷：潮流發源地與科技寶可夢",
-        img: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=600&q=80",
-        eat: [
-            "<strong>Shake Shack 漢堡 (澀谷店):</strong> 結合了米其林背景的高檔食材、講究的環境體驗與飢餓行銷，打破了大家對傳統美式速食又油又便宜的印象。",
-            "<strong>澀谷橫丁:</strong> 從北海道到九州、從近畿到沖繩，19間店舖內各有不同地方的鄉土料理代表，在同一條街上都吃得到。",
-            "<strong>極味屋 (Kiwamiya):</strong> PARCO B1，提供優質和牛漢堡排，自己在鐵板上煎掌控熟度！",
-            "<strong>CHAHO 抹茶專賣店:</strong> PARCO 內濃郁抹香霜淇淋，逛街累了的最佳甜點選擇。"
-        ],
-        buy: [
-            "<strong>Pokémon Center SHIBUYA (PARCO 6F):</strong> 主打未來科技感，必買「黑超炫酷塗鴉風格皮卡丘」與澀谷限定皮卡丘周邊！",
-            "<strong>Nintendo TOKYO (PARCO 6F):</strong> 日本首家任天堂直營店，限定版瑪利歐、薩爾達傳說與動森官方周邊！",
-            "<strong>澀谷 MEGA 唐吉軻德:</strong> 號稱東京都內最大的驚安殿堂，擁有地上6層、地下1層的超大型商場。標榜24小時營業，任何時間都可以來這裡盡情採買日本各地伴手禮、日本零食，以及日本限定的調味包、咖哩塊、飲品等。地下1樓還另開生鮮熟食專區，適合順便採購回旅館當宵夜。",
-            "<strong>SHIBUYA109:</strong> 是東京澀谷的標誌性時尚百貨公司。 從地下2樓到地上8樓，匯聚了約120家商店，提供服飾、鞋包、飾品等商品，風格多元且價格親民。 ",
-            "<strong>JUMP SHOP / Capcom Store:</strong> 航海王、鬼滅之刃、怪物獵人等熱門動漫公仔一網打盡。"
-        ],
-        go: [
-            "<strong>等身大超夢培育艙 (寶可夢中心入口):</strong> 1:1 震撼逼真的超夢沉睡膠囊，必拍打卡熱點！",
-            "<strong>澀谷八公銅像:</strong> 澀谷另一知名地標，就是永遠守護「澀谷車站」的八公銅像！來自秋田大館的小八，每天都來澀谷車站前，等待從東大農學部下班的上野博士。",
-            "<strong>澀谷十字路口 (Scramble Crossing):</strong> 全球最繁忙人行道，體會震撼的潮流人潮與霓虹夜景。",
-            "<strong>宮下公園:</strong> 為了2020奧運而規劃的「宮下公園」，是逛澀谷不可錯過的新地標。以狹長型建築貫穿澀谷和原宿之間，有各式運動場及星巴克進駐。夜晚霓燈初上，原本充滿陽光運動感的公園，還能遠眺澀谷市區夜景。低樓層則為商業設施，是集商店、餐廳、咖啡館於一身的多功能休憩地。",
-            "<strong>Shibuya Sky (澀谷 Sky):</strong> 47 樓露天展望台，360 度無死角俯瞰東京震撼夜景與遠眺富士山。",
-            "<strong>奧澀谷:</strong> 寧靜街道中有許多質感咖啡廳、甜點舖、雜貨店進駐，有著與澀谷車站截然不同的魅力。"
-        ]
-    },
-    ikebukuro: {
-        title: "⚡ 池袋：動漫天國與噴火龍旗艦店",
-        img: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80",
-        eat: [
-            "<strong>Pikachu Sweets by Pokémon Center:</strong> 寶可夢官方主題甜點店，必吃皮卡丘造型泡芙與季節限定特調飲品！",
-            "<strong>麵創房無敵家:</strong> 池袋超高人氣豚骨拉麵，厚切炙燒叉燒搭配濃郁高湯！",
-            "<strong>壽司「MAMIRE」:</strong> 主打新鮮、平價且高品質的江戶前壽司，深受當地上班族與外國旅客青睞。每日直送漁港食材，推薦鮪魚大腹、炙燒比目魚等人氣品項，油脂香氣濃郁、入口即化。",
-            "<strong>鰻魚飯「KABUTO 池袋店」:</strong> 這間位於北池袋的老字號鰻魚飯專賣店創業於1948年，在 Tabelog 上獲得了超過4.4分的超高評價，小小的店內經常是一位難求！店家會依不同時節供應天然野生鰻魚或來自日本各地的養殖鰻魚，並主打用整條鰻魚來料理，可以吃到串燒鰻魚、白燒鰻魚、蒲燒鰻魚或燒烤鰻魚內臟等各式料理，用餐時還會附上精緻小菜，都深受老饕好評。由於店家採完全預約制，須至網站註冊帳號並支付390日圓手續費才能訂位，想吃的話務必記得要旅程事前準備（僅能付現金）。",
-            "<strong>Sunshine City 太陽城美食街:</strong> 匯集各式日式洋食、主題 Café 與經典連鎖餐廳。"
-        ],
-        buy: [
-            "<strong>Pokémon Center MEGA TOKYO:</strong> 全東京規模最大！必買「披著 Mega 噴火龍披風的皮卡丘」娃娃！",
-            "<strong>Pokémon GO Lab:</strong> 全球首家 PGO 實體概念店，限定卡牌遊戲周邊與補給站打卡！",
-            "<strong>池袋 LUMINE:</strong> 集結眾多日系時裝、配件、首飾品牌以及美妝保養店家，此外館內8～9樓的餐廳區也有不少好評店家，1樓則有超人氣甜點店「HARBS」，是來池袋逛街用餐的好去處！",
-            "<strong>GiGO 總本店:</strong> 全東京最大的「GiGO 旗艦總本店」，高4層樓空間、總面積達947坪，館內陳列著大量夾娃娃機、拍貼機、太鼓達人、賽車機台。",
-            "<strong>驚安殿堂 唐吉訶德 池袋東口店:</strong> 24小時全年無休。",
-            "<strong>Animate 池袋總店:</strong> 狂享 10 層樓的世界最大動漫專賣店，各類同人誌、模型與限定周邊寶庫。"
-        ],
-        go: [
-            "<strong>噴火龍與皮卡丘巨型雕像:</strong> 店內入口超霸氣的噴火龍雕像，寶可夢粉絲朝聖第一站！",
-            "<strong>Sunshine City 陽光城水族館:</strong> 位於高樓層的戶外天空水族館，看企鵝在頭頂上的玻璃泳池翱翔！"
-        ]
-    },
-    skytree: {
-        title: "🗼 押上與淺草：新舊交融與經典伴手禮",
-        img: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80",
-        eat: [
-            "<strong>治一郎 (Jiichiro 東京車站/晴空塔店):</strong> 必吃超濃郁綿密日式布丁，以及層層濕潤可口的招牌年輪蛋糕！",
-            "<strong>淺草葵丸進 / 大黑家天丼:</strong> 淺草老字號豪華天丼，酥脆炸蝦沾上百年秘製鹹甜醬汁！",
-            "<strong>六厘舍沾麵 (東京ソラマチ店):</strong> 是東京沾麵界的王者之一，位於晴空城6樓。以超濃郁的豚骨魚介湯頭搭配極粗的 Q 彈麵條聞名，每一口都能吸附滿滿湯汁。" <br> <strong> 營業時間：10:30～23:00　最終點餐22:30",
-            "<strong>迴轉壽司 Toriton:</strong> 來自北海道的人氣迴轉壽司，以食材新鮮、用料大方著稱。在這裡能吃到牡丹蝦、大干貝等北海道直送的時令海鮮，CP 值極高。",
-            "<strong>竹末 Tokyo Premium：創意雞白湯拉麵:</strong> 店內裝潢時尚，主打雞白湯與干貝熬煮的濃郁湯頭，搭配像烤牛肉般的低溫烹調叉燒，擺盤精緻如法式料理。",
-            "<strong>淺草炸肉餅 (Asakusa Menchi):</strong> 咬下爆汁的黑毛和牛炸肉餅，淺草仲見世通必吃小吃！"
-        ],
-        buy: [
-            "<strong>Pokémon Center TOKYO SKYTREE TOWN:</strong> 晴空塔限定「騎著烈空坐的皮卡丘」玩偶與紀念吊飾！",
-            "<strong>SKYTREE SHOP:</strong> 店內許多商品都印有晴空塔與東京景色圖樣，是遊客挑選東京旅行紀念品的人氣地點。其中像是晴空塔包裝的甜點與零食最受歡迎，既具有紀念價值。",
-            "<strong>押上 Life 超市:</strong> 店內從日本零食、泡麵、飲料到熟食便當、生活用品都很齊全，不只能補足旅途中需要的日常用品，也很適合順手掃貨一些高 CP 值的零食伴手禮。",
-            "<strong>橡子共和國 (Solamachi 店):</strong> 吉卜力工作室官方授權店，龍貓與無臉男超可愛雜貨！",
-            "<strong>東京芭娜娜 (Tokyo Banana) 晴空塔限定版:</strong> 印有豹紋或豹貓圖案的限定口味芭娜娜蛋糕。",
-            "<strong>淺草 ROX:</strong> 大型購物中心「淺草 ROX 」緊鄰筑波快線「淺草站」，內有無印良品、大創、3COINS、藏壽司等人氣店家，地下樓層還有 SEIYU 超市，晚上來補貨水果、零食超方便！"
-        ],
-        go: [
-            "<strong>淺草寺雷門與仲見世通:</strong> 穿過巨型紅提燈雷門，漫步古色古香的古街商店街。",
-            "<strong>晴空塔展望台 (Tembo Deck):</strong> 登上 350/450 公尺高空，將整座東京都市天際線與東京灣盡收眼底。",
-            "<strong>十間橋:</strong> 位在晴空塔東邊的十間橋是可以拍出完整「逆晴空塔」倒影美照的最佳攝影點。",
-            "<strong>牛嶋神社:</strong> 從神社的三輪鳥居周邊可以拍到傳統鳥居與現代晴空塔同框的獨特畫面，是內行人才知道的絕佳拍照點。",
-            "<strong>高木神社:</strong> 主祀結緣之神「高皇產靈神」。因日文「結緣（Musubi）」與「飯糰（Omusubi）」諧音，神社內充滿了可愛的飯糰元素。",
-            "<strong>淺草花屋敷:</strong> 這裡充滿昭和年代的氛圍，簡單的旋轉木馬、咖啡杯、超不可怕的雲霄飛車、甚至還有超復古的鬼屋。",
-            "<strong>台場海濱公園 (夜景煙火):</strong> 傍晚前往台場，觀賞彩虹大橋、自由女神像與璀璨的東京灣夜間煙火秀！"
-        ]
-    }
-};
 const fullItinerary = [
     {
         day: 1,
@@ -215,9 +107,9 @@ const fullItinerary = [
         title: "Day 2：東京海洋迪士尼全日冒險",
         desc: "📍 主要區域：舞濱、東京迪士尼海洋<br>點擊景點卡片可以查看攻略，按右側按鈕導航",
         items: [
-            { time: "06:30", title: "🏨 從錦糸町出發", desc: "🚶 步行至 JR 錦糸町站", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/05/a0005776/img/zh-tw/a0005776_parts_68c9eae462026.jpg?20260107151700&q=80&rw=620&rw=443", guideKey: "kinshicho" },
+            { time: "06:30", title: "🏨 從錦糸町出發", desc: "🚶 步行至 JR 錦糸町站", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXmNGPDq4ra47KsINeaPCuT0-zKqyzl_FGB2TcXXgIuy_j9PEgC830obNSeftKUEnxp16rx8W2gA3hsAz69epQfciSRvq5bMVQxHZgM_Qs-QVWlITwewFUIVWHSWOH75vMdI1XNE9QZqwV=w408-h306-k-no", guideKey: "kinshicho" },
             { time: "06:40 – 07:20", title: "🚊 錦糸町 ➔ 舞濱站", desc: "🚇 JR 總武線轉武藏野線/京葉線約40分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Maihama+Station", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJv6yrmkAho3RHDJhAJLQoP-i3TkAC1HpTm9AI0Cw-6tEnCtHl494gTEGt&s=10" },
-            { time: "07:30 – 08:00", title: "🚝 迪士尼度假區單軌電車", desc: "搭乘迪士尼單軌電車前往迪士尼海洋站", type: "transit", tag: "🚝 單軌", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea+Station", img: "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=600&q=80" },
+            { time: "07:30 – 08:00", title: "🚝 迪士尼度假區單軌電車", desc: "搭乘迪士尼單軌電車前往迪士尼海洋站", type: "transit", tag: "🚝 單軌", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea+Station", img: "https://media2.tokyodisneyresort.jp/home/tdr/resortline/tds25th_01.jpg" },
             { time: "08:00 – 20:30", title: "🌋 東京迪士尼海洋 (Tokyo DisneySea)", desc: "夢幻泉鄉、翱翔夢幻奇航與極致夜間秀", type: "anime", tag: "🏰 樂園", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea", img: "https://gotravellingworld.com/wp-content/uploads/2025/06/1749475842-2.png" },
             { time: "21:00 – 21:40", title: "🚊 返回錦糸町", desc: "🚇 JR 京葉線轉總武線約40分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/FNJt1Qgp63BxqM2u8", img: "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltYZ2KFAbBZjfzOF9paWmNE9gNMS1T-MOcxwP4jL1nGpDtPYEFHRYHzf2DXTpsj5c64qxiKaEHWJ1P7_J10ZcwMoM_FGE-dwOVM4-ikilFpE5O2r7qYnGQhLQHhe8OxboiepfJDQ=w408-h541-k-no", guideKey: "kinshicho" }
         ]
@@ -228,13 +120,13 @@ const fullItinerary = [
         desc: "📍 主要區域：赤羽橋、澀谷、池袋、上野<br>點擊景點卡片可以查看攻略，按右側按鈕導航",
         items: [
             { time: "08:00", title: "🏨 從錦糸町出發", desc: "🚶 步行至地鐵站", type: "transit", tag: "🚶 步行約6分鐘", map: "https://maps.app.goo.gl/zr3XCnQcRPxeuKcS6", img: "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXmNGPDq4ra47KsINeaPCuT0-zKqyzl_FGB2TcXXgIuy_j9PEgC830obNSeftKUEnxp16rx8W2gA3hsAz69epQfciSRvq5bMVQxHZgM_Qs-QVWlITwewFUIVWHSWOH75vMdI1XNE9QZqwV=w408-h306-k-no", guideKey: "kinshicho" },
-            { time: "08:10 – 08:50", title: "🚊 赤羽橋站", desc: "🚇 地鐵半藏門線轉大江戶線約30分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Akabanebashi+Station", img: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80" },
-            { time: "09:10 – 10:30", title: "📍 港區–東京鐵塔 (Tokyo Tower)", desc: "🚶 赤羽橋站出口步行12分鐘 / 拍照打卡與觀景台", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+Tower", img: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80" },
-            { time: "10:30 – 11:00", title: "🚊 赤羽橋 ➔ 澀谷", desc: "🚇 地鐵日比谷線轉湖南新宿線約30分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/X8DasNe2w7ydYKaP9", img: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=600&q=80", guideKey: "shibuya" },
-            { time: "11:00 – 12:00", title: "📍 澀谷–PARCO 6F 寶可夢中心", desc: "Pokémon Center SHIBUYA 🚶 步行約5分鐘", type: "shop", tag: "⚡ 聖地", map: "https://maps.app.goo.gl/Z4ZmTiec96PcKVpC9", img: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=600&q=80", guideKey: "shibuya" },
-            { time: "12:00 – 13:30", title: "🍽️ 澀谷–Shake Shack Shibuya", desc: "🚶 步行約1分鐘", type: "food", tag: "🍜 美食", map: "https://share.google/9ij3RMB5skAei156Q", img: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=600&q=80", guideKey: "shibuya" },
-            { time: "13:30 – 14:00", title: "🚊 澀谷 ➔ 池袋", desc: "🚇 山手線 / 副都心線約25分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/NrG8Qb9RqNvtUuit8", img: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80", guideKey: "ikebukuro" },
-            { time: "14:00 – 16:30", title: "📍 池袋–Pokémon Center Mega Tokyo", desc: "太陽城 🚎 ＩＫＥＢＵＳ 路線Ａ /🚶 步行約11分鐘 ", type: "shop", tag: "⚡ 聖地", map: "https://maps.app.goo.gl/VxbEGpZgbSNwGw7B7", img: "https://images.unsplash.com/photo-1613771404784-3a5686aa2be3?auto=format&fit=crop&w=600&q=80", guideKey: "ikebukuro" },
+            { time: "08:10 – 08:50", title: "🚊 赤羽橋站", desc: "🚇 地鐵半藏門線轉大江戶線約30分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Akabanebashi+Station", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Light_box_of_Akabanebashi_Station.jpg/250px-Light_box_of_Akabanebashi_Station.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
+            { time: "09:10 – 10:30", title: "📍 港區–東京鐵塔 (Tokyo Tower)", desc: "🚶 赤羽橋站出口步行12分鐘 / 拍照打卡與觀景台", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+Tower", img: "https://blob.visit-minato-city.tokyo/assets/2022/09/08/07/25/23/03%20DSC_9958.jpg" },
+            { time: "10:30 – 11:00", title: "🚊 赤羽橋 ➔ 澀谷", desc: "🚇 地鐵日比谷線轉湖南新宿線約30分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/X8DasNe2w7ydYKaP9", img: "https://d1grca2t3zpuug.cloudfront.net/2024/09/66f14ed343e7e-870x500.webp", guideKey: "shibuya" },
+            { time: "11:00 – 12:00", title: "📍 澀谷–PARCO 6F 寶可夢中心", desc: "Pokémon Center SHIBUYA 🚶 步行約5分鐘", type: "shop", tag: "⚡ 聖地", map: "https://maps.app.goo.gl/Z4ZmTiec96PcKVpC9", img: "https://i1.wp.com/journey.tw/wp-content/uploads/2023-04-26-150950-56.jpg?ssl=1", guideKey: "shibuya" },
+            { time: "12:00 – 13:30", title: "🍽️ 澀谷–Shake Shack Shibuya", desc: "🚶 步行約1分鐘", type: "food", tag: "🍜 美食", map: "https://share.google/9ij3RMB5skAei156Q", img: "https://media-cdn.tripadvisor.com/media/photo-s/0c/68/cd/25/entrance.jpg", guideKey: "shibuya" },
+            { time: "13:30 – 14:00", title: "🚊 澀谷 ➔ 池袋", desc: "🚇 山手線 / 副都心線約25分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/NrG8Qb9RqNvtUuit8", img: "https://d1grca2t3zpuug.cloudfront.net/2025/02/67a09f9b2f9bc-870x500.webp", guideKey: "ikebukuro" },
+            { time: "14:00 – 16:30", title: "📍 池袋–Pokémon Center Mega Tokyo", desc: "太陽城 🚎 ＩＫＥＢＵＳ 路線Ａ /🚶 步行約11分鐘 ", type: "shop", tag: "⚡ 聖地", map: "https://maps.app.goo.gl/VxbEGpZgbSNwGw7B7", img: "https://p2.bahamut.com.tw/B/2KU/90/a88b2519cad831e604d54250601ytzq5.JPG", guideKey: "ikebukuro" },
             { time: "16:30 – 17:00", title: "🚊 池袋 ➔ 上野", desc: "🚇 山手線約35分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Ueno+Station", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2voAQb4sNYFyF-QoEX1dssr7GOQqpugzfBHdLgXkbF_N3vb-Fst3m9Nsc&s=10" },
             { time: "17:00 – 20:00", title: "🛍️ 上野–阿美橫丁 (Ameyoko)", desc: "🚶 上野不忍口步行3分鐘 / 藥妝、零食小吃與晚餐散策", type: "shop", tag: "🛍️ 購物", map: "https://www.google.com/maps/search/?api=1&query=Ameyoko+Ueno", img: "https://d1grca2t3zpuug.cloudfront.net/2022/12/uenoameyokocho03.jpg" },
             { time: "20:00 – 20:30", title: "🏨 上野 ➔ 錦糸町", desc: "🚇 JR 或地鐵約35分鐘返飯店休息", type: "transit", tag: "🏨 住宿", map: "https://maps.app.goo.gl/FNJt1Qgp63BxqM2u8", img: "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltYZ2KFAbBZjfzOF9paWmNE9gNMS1T-MOcxwP4jL1nGpDtPYEFHRYHzf2DXTpsj5c64qxiKaEHWJ1P7_J10ZcwMoM_FGE-dwOVM4-ikilFpE5O2r7qYnGQhLQHhe8OxboiepfJDQ=w408-h541-k-no", guideKey: "kinshicho" }
@@ -245,9 +137,9 @@ const fullItinerary = [
         title: "Day 4：押上晴空塔 ➔ 淺草豬排飯 ➔ 日本橋 ➔ 東京車站治一郎 ➔ 台場煙火",
         desc: "📍 主要區域：押上、淺草、日本橋、東京車站、台場<br>點擊景點卡片可以查看攻略，按右側按鈕導航",
         items: [
-            { time: "09:00", title: "🏨 從錦糸町出發", desc: "🚶 步行至半藏門線", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/05/a0005776/img/zh-tw/a0005776_parts_68c9eae462026.jpg?20260107151700&q=80&rw=620&rw=443", guideKey: "kinshicho" },
-            { time: "09:05 – 09:15", title: "🚊 錦糸町 ➔ 押上 (晴空塔)", desc: "🚇 地鐵半藏門線直達1站約3分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Oshiage+Station", img: "https://www.lovejapantrip.tw/Userfiles/images/DSCF1664.jpg", guideKey: "skytree" },
-            { time: "09:15 – 11:30", title: "📍 押上–東京晴空塔 Solamachi", desc: "🚶 出站即達 / 逛 Solamachi 與遠眺晴空塔", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree", img: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80", guideKey: "skytree" },
+            { time: "09:00", title: "🏨 從錦糸町出發", desc: "🚶 步行至半藏門線", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXmNGPDq4ra47KsINeaPCuT0-zKqyzl_FGB2TcXXgIuy_j9PEgC830obNSeftKUEnxp16rx8W2gA3hsAz69epQfciSRvq5bMVQxHZgM_Qs-QVWlITwewFUIVWHSWOH75vMdI1XNE9QZqwV=w408-h306-k-no", guideKey: "kinshicho" },
+            { time: "09:05 – 09:15", title: "🚊 錦糸町 ➔ 押上 (晴空塔)", desc: "🚇 地鐵半藏門線直達1站約3分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Oshiage+Station", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%E6%8A%BC%E4%B8%8A%E9%A7%85%EF%BC%88%E4%BA%AC%E6%88%90%E3%83%BB%E9%83%BD%E5%96%B6%EF%BC%89%E4%B8%AD%E5%A4%AE%E5%8F%A3.png/330px-%E6%8A%BC%E4%B8%8A%E9%A7%85%EF%BC%88%E4%BA%AC%E6%88%90%E3%83%BB%E9%83%BD%E5%96%B6%EF%BC%89%E4%B8%AD%E5%A4%AE%E5%8F%A3.png", guideKey: "skytree" },
+            { time: "09:15 – 11:30", title: "📍 押上–東京晴空塔 Solamachi", desc: "🚶 出站即達 / 逛 Solamachi 與遠眺晴空塔", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree", img: "https://www.lovejapantrip.tw/Userfiles/images/DSCF1664.jpg", guideKey: "skytree" },
             { time: "11:30 – 11:40", title: "🚊 押上 ➔ 淺草", desc: "🚇 都營淺草線約5分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/a4j12SC4jnovavnb7", img: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/04/a0004437/img/basic/a0004437_main.jpg", guideKey: "skytree" },
             { time: "11:40 – 13:30", title: "🍽️ 淺草–雷門壓馬路 ＆ 午餐豬排飯", desc: "🚶 步行 / 雷門打卡與經典炸豬排飯/豚肉飯美食", type: "food", tag: "🍜 美食", map: "https://www.google.com/maps/search/?api=1&query=Asakusa+Tonkatsu", img: "https://d1grca2t3zpuug.cloudfront.net/2026/04/1002-toyama-870x500-1776774353.webp", guideKey: "skytree" },
             { time: "13:30 – 13:45", title: "🚊 淺草 ➔ 日本橋", desc: "🚇 銀座線約20分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/AdDt2wddEs3B3zik9", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg2YYFV0eriwTTetZFW2uUpeQR4rjQ_MnxmydW0G99PioIhaI6votGXY&s=10" },
@@ -265,8 +157,8 @@ const fullItinerary = [
         desc: "📍 主要區域：錦糸町、成田國際機場<br>點擊景點卡片可以查看攻略，按右側按鈕導航",
         items: [
             { time: "10:00 – 12:00", title: "🛍️ 錦糸町–ARCAKIT & PARCO 採購", desc: "🚶 車站前 / 補齊 Uniqlo、大創與零食藥妝伴手禮", type: "shop", tag: "🛍️ 購物", map: "https://www.google.com/maps/search/?api=1&query=Kinshicho+ARCAKIT", img: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/05/a0005776/img/zh-tw/a0005776_parts_68c9eae462026.jpg?20260107151700&q=80&rw=620&rw=443", guideKey: "kinshicho" },
-            { time: "12:00 – 13:30", title: "🍜 錦糸町–真鯛拉麵 麵魚", desc: "🚶 步行約5分鐘 / 濃郁鮮美鯛魚高湯拉麵午餐", type: "food", tag: "🍜 美食", map: "https://www.google.com/maps/search/?api=1&query=Mengyo+Kinshicho", img: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80", guideKey: "kinshicho" },
-            { time: "16:00 – 16:30", title: "🏨 錦糸町飯店取行李準備出發", desc: "前往車站搭乘成田特急 N'EX 或 JR 總武快速線", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/05/a0005776/img/zh-tw/a0005776_parts_68c9eae462026.jpg?20260107151700&q=80&rw=620&rw=443", guideKey: "kinshicho" },
+            { time: "12:00 – 13:30", title: "🍜 錦糸町–真鯛拉麵 麵魚", desc: "🚶 步行約5分鐘 / 濃郁鮮美鯛魚高湯拉麵午餐", type: "food", tag: "🍜 美食", map: "https://www.google.com/maps/search/?api=1&query=Mengyo+Kinshicho", img: "https://tenjo.tw/wp-content/uploads/20190406234729_46.jpg", guideKey: "kinshicho" },
+            { time: "16:00 – 16:30", title: "🏨 錦糸町飯店取行李準備出發", desc: "前往車站搭乘成田特急 N'EX 或 JR 總武快速線", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltYZ2KFAbBZjfzOF9paWmNE9gNMS1T-MOcxwP4jL1nGpDtPYEFHRYHzf2DXTpsj5c64qxiKaEHWJ1P7_J10ZcwMoM_FGE-dwOVM4-ikilFpE5O2r7qYnGQhLQHhe8OxboiepfJDQ=w408-h541-k-no", guideKey: "kinshicho" },
             { time: "16:30 – 18:00", title: "🛬 抵達 ✈️ 成田國際機場 (18:00 前)", desc: "搭乘 JR 總武快速/N'EX 約70分鐘直達機場，辦理退稅登機！", type: "transit", tag: "🛬 機場", map: "https://www.google.com/maps/search/?api=1&query=Narita+Airport", img: "https://d1grca2t3zpuug.cloudfront.net/2025/09/2025naritaairport2-640x427-1758845721.webp" }
         ]
     }
