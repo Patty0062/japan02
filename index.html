@@ -25,6 +25,19 @@
         appId: "YOUR_APP_ID"
       };
 
+<!-- 
+      const firebaseConfig = {
+        apiKey: "AIzaSyAYy1dKGlC9NQ7bk6yKs_2N7cnCaC96oSw",
+        authDomain: "japan02-c01c5.firebaseapp.com",
+        databaseURL: "https://japan02-c01c5-default-rtdb.firebaseio.com",
+        projectId: "japan02-c01c5",
+        storageBucket: "japan02-c01c5.firebasestorage.app",
+        messagingSenderId: "602494314431",
+        appId: "1:602494314431:web:57edf6554d9651c81da30a",
+        measurementId: "G-QQWGJS60WM"
+      };
+-->
+        
       const app = initializeApp(firebaseConfig);
       const database = getDatabase(app);
       const expensesRef = ref(database, 'tokyo_group_expenses');
