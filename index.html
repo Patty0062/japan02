@@ -131,9 +131,17 @@
                     <input type="text" id="payerName" placeholder="先墊付錢的人">
                 </div>
                 <input type="text" id="itemDesc" placeholder="消費項目（例：拉麵、計程車、門票）">
+
+                <!-- 💱 雙幣別輸入區域 -->
                 <div class="currency-input-group">
-                    <input type="number" id="itemJpy" placeholder="金額 (日幣 JPY)" oninput="calcTwdPreview()">
-                    <span class="twd-preview" id="twdPreview">≈ NT$ 0</span>
+                    <div class="currency-row">
+                        <select id="inputCurrency" onchange="calcTwdPreview()">
+                            <option value="JPY">日幣 (JPY)</option>
+                            <option value="TWD">台幣 (TWD)</option>
+                        </select>
+                        <input type="number" id="itemAmount" placeholder="輸入金額" oninput="calcTwdPreview()">
+                    </div>
+                    <span class="twd-preview" id="twdPreview">≈ NT$ 0 </span>
                 </div>
 
                 <button class="add-btn" onclick="addExpense()">新增這筆消費</button>
@@ -152,8 +160,8 @@
             </div>
 
             <div class="summary-box">
-                <div>所選天數小計 (JPY)：<strong id="totalJpy">¥ 0</strong></div>
-                <div>約合台幣 (TWD)：<strong id="totalTwd">NT$ 0</strong></div>
+                <div>所選天數小計 (日幣)：<strong id="totalJpy">¥ 0</strong></div>
+                <div>所選天數小計 (台幣)：<strong id="totalTwd">NT$ 0</strong></div>
             </div>
 
             <ul class="expense-list" id="expenseList"></ul>
@@ -162,9 +170,9 @@
         <!-- 分頁 2：自動動態分帳結果 -->
         <div id="splitTab" class="tab-content">
             <div class="input-card">
-                <h3>👥 群體公用自動算帳</h3>
+                <h3>👥 公用自動算帳</h3>
                 <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 12px;">
-                    系統會自動統計全行程「👥 群體公用」的所有消費，並依下方的總人數計算每人平均金額與補退款金額。
+                    系統會自動統計全行程「👥 公用」的所有消費，並依下方的總人數計算每人平均金額與補退款金額。
                 </p>
                 <label style="font-size: 0.9rem; font-weight: bold;">群體總分攤人數：</label>
                 <input type="number" id="splitPeopleCount" value="2" min="1" oninput="renderExpenses()" style="margin-top: 6px;">
