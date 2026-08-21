@@ -71,7 +71,7 @@ const spotGuides = {
     },
     disney: {
         title: "🌋 東京迪士尼海洋：浪漫港灣與冒險奇航",
-        img: "https://images.unsplash.com/photo-1570535146632-2d1921319767?auto=format&fit=crop&w=600&q=80",
+        img: "https://bobbytravel.tw/wp-content/uploads/2026/05/20260526011443_0_059b8b.webp",
         eat: [
             "<strong>唐老鴨泳圈包 (Seaside Snacks):</strong> 發現港必吃超萌小吃！救生圈造型外皮鬆軟，內餡是滿滿鮮蝦肉餡，好吃又好拍且不含牛肉。",
             "<strong>餃子堡 (Refrescos):</strong> 神秘島代表小吃，將多汁的生薑香蔥豬肉餡包入長條形麵皮，香氣濃郁且飽足感十足。",
@@ -95,26 +95,15 @@ const spotGuides = {
     },
     godisney: {
         title: "🩵 東京迪士尼海洋：出發前往",
-        img: "https://images.unsplash.com/photo-1570535146632-2d1921319767?auto=format&fit=crop&w=600&q=80",
-        eat: [
-            "<strong>唐老鴨泳圈包 (Seaside Snacks):</strong> 發現港必吃超萌小吃！救生圈造型外皮鬆軟，內餡是滿滿鮮蝦肉餡，好吃又好拍且不含牛肉。",
-            "<strong>餃子堡 (Refrescos):</strong> 神秘島代表小吃，將多汁的生薑香蔥豬肉餡包入長條形麵皮，香氣濃郁且飽足感十足。",
-            "<strong>三眼怪麻糬 (Mama Odie's / 各小吃亭):</strong> 冰涼軟Q的超人氣造型甜點，一盒三顆分別包著卡士達、草莓與巧克力三種甜餡。",
-            "<strong>照燒香烤雞腿（Lost River Cookhouse）：</strong> 醬汁濃郁、肉質鮮嫩多汁，是園區內最經典的排隊鹹食。",
-            "<strong>炸蝦壽司捲（Bayside Takeout）：</strong> 長條狀方便邊走邊吃，內餡包裹酥脆炸蝦排與白飯。"
-        ],
-        buy: [
-            "<strong>達菲與好友們全系列周邊 (Duffy & Friends):</strong> 海洋獨家限定！包含達菲、雪莉玫、史黛拉兔、玲娜貝爾等角色的變裝布偶、吊飾、造型髮箍與包包。",
-            "<strong>夢幻泉鄉限定周邊 (Fantasy Springs):</strong> 《冰雪奇緣》、《魔髮奇緣》及《小飛俠》主題的精緻鐵盒餅乾、刺繡吊飾與專屬文具小物。",
-            "<strong>特色造型爆米花桶:</strong> 園區必備裝飾配件，各主題區域販售不同款式的發光或經典角色爆米花桶，極具收藏價值。",
-            "<strong>東京迪士尼經典伴手禮盒:</strong> 包含造型仙貝、迪士尼角色夾心餅乾、巧克力鐵盒，包裝精美且內附獨立包裝，非常適合送禮。"
-        ],
+        img: "https://japanbusonline.com/Images/Search/0563_01.jpg",
+        eat: [ ],
+        buy: [ ],
         go: [
-            "<strong>夢幻泉鄉三大設施 (Fantasy Springs):</strong> 包含「安娜與艾莎的冰雪之旅」、「樂佩公主天燈盛會」及「小飛俠彼得潘的永無島冒險」，沉浸感極高的最新人氣園區。",
-            "<strong>翱翔：夢幻奇航 (Soaring: Fantastic Flight):</strong> 雙腳懸空的飛行模擬體驗，結合微風與香氣，帶領遊客環遊世界各大壯麗奇景，口碑第一。",
-            "<strong>驚魂古塔 (Tower of Terror):</strong> 廢棄古老飯店為背景的室內自由落體，劇情氛圍鋪陳絕佳，驚嚇與刺激感滿分。",
-            "<strong>地心探險之旅 (Journey to the Center of the Earth):</strong> 深入普羅米修斯火山地底探險，最後隨高速列車衝出火山口，是經典必玩雲霄飛車。",
-            "<strong>夜間港灣大秀「堅信！～夢想之海～」:</strong> 於地中海港灣展開的震撼水上夜間大秀，結合巨大光雕投影、遊船水舞與璀璨煙火，為一天畫下完美句點。"
+            "<strong>錦糸町到迪士尼海洋:</strong> 搭乘東武巴士 / 京成巴士（SKYTREE Shuttle）直達約40-50分鐘。",
+            "<strong>費用：</strong> 1000日圓，可用西瓜卡或現金。",
+            "<strong>上車地點:</strong> 錦糸町站南口的2號巴士乘車處。",
+            "<strong>建議提早排隊:</strong> 提早10-15分鐘。",
+            "<strong>時刻表:</strong> 07:00、07:25、07:45等......。"
         ]
     },
     ikebukuro: {
