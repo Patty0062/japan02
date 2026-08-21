@@ -1,9 +1,11 @@
 :root {
-    --bg-color: #f4f6f8;
+    --bg-color: #cfe3f8;
+    /* --bg-color: #f4f6f8;  */
     --card-bg: #ffffff;
     --text-primary: #1e293b;
     --text-secondary: #64748b;
-    --accent-blue: #3b5ca8;
+    --accent-blue: #4e2ac598;
+    /* --accent-blue: #3b5ca8;  */
     --accent-yellow: #ffcb05;
     --accent-green: #27ae60;
     --accent-red: #e11d48;
@@ -34,7 +36,9 @@ body { background-color: var(--bg-color); color: var(--text-primary); display: f
 .expense-quick-info strong { color: var(--accent-blue); font-size: 1.05rem; }
 .click-hint { font-size: 0.72rem; color: var(--accent-blue); margin-top: 4px; font-weight: 600; }
 
-.header-card { background: linear-gradient(135deg, #1e3a8a, #3b5ca8); color: #ffffff; padding: 20px; border-radius: 20px; box-shadow: var(--shadow); margin-bottom: 20px; }
+
+/* (135deg, #1e3a8a, #3b5ca8); */
+.header-card { background: linear-gradient(135deg, #6e3be6, #a86eb4); color: #ffffff; padding: 20px; border-radius: 20px; box-shadow: var(--shadow); margin-bottom: 20px; }
 .header-card .badge { display: inline-block; background: var(--accent-yellow); color: #1e293b; font-weight: 800; font-size: 0.75rem; padding: 3px 8px; border-radius: 10px; margin-bottom: 8px; }
 .header-card h1 { font-size: 1.35rem; font-weight: 800; margin-bottom: 4px; }
 .header-card .subtitle { font-size: 0.82rem; opacity: 0.9; margin-bottom: 16px; }
