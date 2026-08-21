@@ -93,6 +93,30 @@ const spotGuides = {
             "<strong>夜間港灣大秀「堅信！～夢想之海～」:</strong> 於地中海港灣展開的震撼水上夜間大秀，結合巨大光雕投影、遊船水舞與璀璨煙火，為一天畫下完美句點。"
         ]
     },
+    godisney: {
+        title: "🩵 東京迪士尼海洋：出發前往",
+        img: "https://images.unsplash.com/photo-1570535146632-2d1921319767?auto=format&fit=crop&w=600&q=80",
+        eat: [
+            "<strong>唐老鴨泳圈包 (Seaside Snacks):</strong> 發現港必吃超萌小吃！救生圈造型外皮鬆軟，內餡是滿滿鮮蝦肉餡，好吃又好拍且不含牛肉。",
+            "<strong>餃子堡 (Refrescos):</strong> 神秘島代表小吃，將多汁的生薑香蔥豬肉餡包入長條形麵皮，香氣濃郁且飽足感十足。",
+            "<strong>三眼怪麻糬 (Mama Odie's / 各小吃亭):</strong> 冰涼軟Q的超人氣造型甜點，一盒三顆分別包著卡士達、草莓與巧克力三種甜餡。",
+            "<strong>照燒香烤雞腿（Lost River Cookhouse）：</strong> 醬汁濃郁、肉質鮮嫩多汁，是園區內最經典的排隊鹹食。",
+            "<strong>炸蝦壽司捲（Bayside Takeout）：</strong> 長條狀方便邊走邊吃，內餡包裹酥脆炸蝦排與白飯。"
+        ],
+        buy: [
+            "<strong>達菲與好友們全系列周邊 (Duffy & Friends):</strong> 海洋獨家限定！包含達菲、雪莉玫、史黛拉兔、玲娜貝爾等角色的變裝布偶、吊飾、造型髮箍與包包。",
+            "<strong>夢幻泉鄉限定周邊 (Fantasy Springs):</strong> 《冰雪奇緣》、《魔髮奇緣》及《小飛俠》主題的精緻鐵盒餅乾、刺繡吊飾與專屬文具小物。",
+            "<strong>特色造型爆米花桶:</strong> 園區必備裝飾配件，各主題區域販售不同款式的發光或經典角色爆米花桶，極具收藏價值。",
+            "<strong>東京迪士尼經典伴手禮盒:</strong> 包含造型仙貝、迪士尼角色夾心餅乾、巧克力鐵盒，包裝精美且內附獨立包裝，非常適合送禮。"
+        ],
+        go: [
+            "<strong>夢幻泉鄉三大設施 (Fantasy Springs):</strong> 包含「安娜與艾莎的冰雪之旅」、「樂佩公主天燈盛會」及「小飛俠彼得潘的永無島冒險」，沉浸感極高的最新人氣園區。",
+            "<strong>翱翔：夢幻奇航 (Soaring: Fantastic Flight):</strong> 雙腳懸空的飛行模擬體驗，結合微風與香氣，帶領遊客環遊世界各大壯麗奇景，口碑第一。",
+            "<strong>驚魂古塔 (Tower of Terror):</strong> 廢棄古老飯店為背景的室內自由落體，劇情氛圍鋪陳絕佳，驚嚇與刺激感滿分。",
+            "<strong>地心探險之旅 (Journey to the Center of the Earth):</strong> 深入普羅米修斯火山地底探險，最後隨高速列車衝出火山口，是經典必玩雲霄飛車。",
+            "<strong>夜間港灣大秀「堅信！～夢想之海～」:</strong> 於地中海港灣展開的震撼水上夜間大秀，結合巨大光雕投影、遊船水舞與璀璨煙火，為一天畫下完美句點。"
+        ]
+    },
     ikebukuro: {
         title: "⚡ 池袋：動漫天國與噴火龍旗艦店",
         img: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=80",
@@ -164,9 +188,9 @@ const fullItinerary = [
         desc: "📍 主要區域：舞濱、東京迪士尼海洋<br>點擊景點卡片可以查看攻略，按右側按鈕導航",
         items: [
             { time: "06:30", title: "🏨 從錦糸町出發", desc: "🚶 步行至 JR 錦糸町站", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXmNGPDq4ra47KsINeaPCuT0-zKqyzl_FGB2TcXXgIuy_j9PEgC830obNSeftKUEnxp16rx8W2gA3hsAz69epQfciSRvq5bMVQxHZgM_Qs-QVWlITwewFUIVWHSWOH75vMdI1XNE9QZqwV=w408-h306-k-no", guideKey: "kinshicho" },
-            { time: "06:40 – 07:20", title: "🚊 錦糸町 ➔ 舞濱站", desc: "🚇 JR 總武線轉武藏野線/京葉線約40分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Maihama+Station", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJv6yrmkAho3RHDJhAJLQoP-i3TkAC1HpTm9AI0Cw-6tEnCtHl494gTEGt&s=10" },
+            { time: "06:40 – 07:20", title: "🚊 錦糸町 ➔ 舞濱站", desc: "🚇 JR 總武線轉武藏野線/京葉線約40分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Maihama+Station", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJv6yrmkAho3RHDJhAJLQoP-i3TkAC1HpTm9AI0Cw-6tEnCtHl494gTEGt&s=10" , guideKey: "godiseny" }
             { time: "07:30 – 08:00", title: "🚝 迪士尼度假區單軌電車", desc: "搭乘迪士尼單軌電車前往迪士尼海洋站", type: "transit", tag: "🚝 單軌", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea+Station", img: "https://media2.tokyodisneyresort.jp/home/tdr/resortline/tds25th_01.jpg" },
-            { time: "08:00 – 20:30", title: "🌋 東京迪士尼海洋 (Tokyo DisneySea)", desc: "夢幻泉鄉、翱翔夢幻奇航與極致夜間秀", type: "anime", tag: "🏰 樂園", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea", img: "https://gotravellingworld.com/wp-content/uploads/2025/06/1749475842-2.png" },
+            { time: "08:00 – 20:30", title: "🌋 東京迪士尼海洋 (Tokyo DisneySea)", desc: "夢幻泉鄉、翱翔夢幻奇航與極致夜間秀", type: "anime", tag: "🏰 樂園", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea", img: "https://gotravellingworld.com/wp-content/uploads/2025/06/1749475842-2.png" , guideKey: "diseny" }
             { time: "21:00 – 21:40", title: "🚊 返回錦糸町", desc: "🚇 JR 京葉線轉總武線約40分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/FNJt1Qgp63BxqM2u8", img: "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltYZ2KFAbBZjfzOF9paWmNE9gNMS1T-MOcxwP4jL1nGpDtPYEFHRYHzf2DXTpsj5c64qxiKaEHWJ1P7_J10ZcwMoM_FGE-dwOVM4-ikilFpE5O2r7qYnGQhLQHhe8OxboiepfJDQ=w408-h541-k-no", guideKey: "kinshicho" }
         ]
     },
