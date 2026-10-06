@@ -185,12 +185,12 @@ const fullItinerary = [
     },
     {
         day: 3,
-        title: "Day 3：東京鐵塔 ➔ 澀谷寶可夢與美味漢堡排 ➔ 池袋寶可夢 ➔ 阿美橫丁",
+        title: "Day 3：東京鐵塔 ➔ 澀谷寶可夢與美味漢堡 ➔ 池袋寶可夢 ➔ 上野阿美橫丁or淺草晴空塔",
         desc: "📍 主要區域：赤羽橋、澀谷、池袋、上野<br>點擊景點卡片可以查看攻略，按右側按鈕導航",
         items: [
             { time: "08:00", title: "🏨 從錦糸町出發", desc: "🚶 步行至地鐵站約6分鐘", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/zr3XCnQcRPxeuKcS6", img: "https://resources.matcha-jp.com/resize/480x2000/2020/03/23-99913.webp", guideKey: "kinshicho" },
             { time: "08:10 – 08:50", title: "🚊 赤羽橋站", desc: "🚇 地鐵半藏門線轉大江戶線約30分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Akabanebashi+Station", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Light_box_of_Akabanebashi_Station.jpg/250px-Light_box_of_Akabanebashi_Station.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-            { time: "09:10 – 10:30", title: "📍 港區–東京鐵塔 (Tokyo Tower)", desc: "🚶 赤羽橋站出口步行12分鐘 / 拍照打卡與觀景台", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+Tower", img: "https://www.gltjp.com/zh-hant/article/item/12052/" },
+            { time: "09:10 – 10:30", title: "📍 港區–東京鐵塔 (Tokyo Tower)", desc: "🚶 赤羽橋站出口步行12分鐘 / 拍照打卡與觀景台", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+Tower", img: "https://img.letsgojp.com/2024/08/66bcbb9e3ce18-870x500.webp" },
             { time: "10:30 – 11:00", title: "🚊 赤羽橋 ➔ 澀谷", desc: "🚇 地鐵日比谷線轉湖南新宿線約30分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/X8DasNe2w7ydYKaP9", img: "https://d1grca2t3zpuug.cloudfront.net/2024/09/66f14ed343e7e-870x500.webp", guideKey: "shibuya" },
             { time: "11:00 – 12:00", title: "📍 澀谷–PARCO 6F 寶可夢中心", desc: "Pokémon Center SHIBUYA 🚶 步行約5分鐘", type: "shop", tag: "⚡ 聖地", map: "https://maps.app.goo.gl/Z4ZmTiec96PcKVpC9", img: "https://i1.wp.com/journey.tw/wp-content/uploads/2023-04-26-150950-56.jpg?ssl=1", guideKey: "shibuya" },
             { time: "12:00 – 13:30", title: "🍽️ 澀谷–Shake Shack Shibuya", desc: "🚶 步行約1分鐘", type: "food", tag: "🍜 美食", map: "https://share.google/9ij3RMB5skAei156Q", img: "https://media-cdn.tripadvisor.com/media/photo-s/0c/68/cd/25/entrance.jpg", guideKey: "shibuya" },
@@ -203,21 +203,16 @@ const fullItinerary = [
     },
     {
         day: 4,
-        title: "Day 4：押上晴空塔 ➔ 淺草豬排飯 ➔ 日本橋 ➔ 東京車站治一郎 ➔ 台場煙火",
-        desc: "📍 主要區域：押上、淺草、日本橋、東京車站、台場<br>點擊景點卡片可以查看攻略，按右側按鈕導航",
+        title: "Day 4：日本橋 ➔ 東京車站治一郎 ➔ 台場煙火or新宿燈光秀",
+        desc: "📍 主要區域：日本橋、東京車站、台場<br>點擊景點卡片可以查看攻略，按右側按鈕導航",
         items: [
-            { time: "09:00", title: "🏨 從錦糸町出發", desc: "🚶 步行至半藏門線", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://resources.matcha-jp.com/resize/480x2000/2020/03/23-99913.webp", guideKey: "kinshicho" },
-            { time: "09:05 – 09:15", title: "🚊 錦糸町 ➔ 押上 (晴空塔)", desc: "🚇 地鐵半藏門線直達1站約3分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Oshiage+Station", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%E6%8A%BC%E4%B8%8A%E9%A7%85%EF%BC%88%E4%BA%AC%E6%88%90%E3%83%BB%E9%83%BD%E5%96%B6%EF%BC%89%E4%B8%AD%E5%A4%AE%E5%8F%A3.png/330px-%E6%8A%BC%E4%B8%8A%E9%A7%85%EF%BC%88%E4%BA%AC%E6%88%90%E3%83%BB%E9%83%BD%E5%96%B6%EF%BC%89%E4%B8%AD%E5%A4%AE%E5%8F%A3.png", guideKey: "skytree" },
-            { time: "09:15 – 11:30", title: "📍 押上–東京晴空塔 Solamachi", desc: "🚶 出站即達 / 逛 Solamachi 與遠眺晴空塔", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree", img: "https://www.lovejapantrip.tw/Userfiles/images/DSCF1664.jpg", guideKey: "skytree" },
-            { time: "11:30 – 11:40", title: "🚊 押上 ➔ 淺草", desc: "🚇 都營淺草線約5分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/a4j12SC4jnovavnb7", img: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/04/a0004437/img/basic/a0004437_main.jpg", guideKey: "skytree" },
-            { time: "11:40 – 13:30", title: "🍽️ 淺草–雷門壓馬路 ＆ 午餐豬排飯", desc: "🚶 步行 / 雷門打卡與經典炸豬排飯/豚肉飯美食", type: "food", tag: "🍜 美食", map: "https://www.google.com/maps/search/?api=1&query=Asakusa+Tonkatsu", img: "https://d1grca2t3zpuug.cloudfront.net/2026/04/1002-toyama-870x500-1776774353.webp", guideKey: "skytree" },
-            { time: "13:30 – 13:45", title: "🚊 淺草 ➔ 日本橋", desc: "🚇 銀座線約20分鐘", type: "transit", tag: "🚇 電車", map: "https://maps.app.goo.gl/AdDt2wddEs3B3zik9", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg2YYFV0eriwTTetZFW2uUpeQR4rjQ_MnxmydW0G99PioIhaI6votGXY&s=10" },
-            { time: "13:45 – 15:00", title: "📍 日本橋–Pokémon center Tokyo DX", desc: "🚶 日本橋高島屋5F ", type: "shop", tag: "🛍️ 購物", map: "https://www.google.com/maps/search/?api=1&query=Nihonbashi", img: "https://i.ytimg.com/vi/agwBTp0TlVY/mqdefault.jpg" },
-            { time: "15:00 – 15:15", title: "🚊 日本橋 ➔ 東京車站", desc: "🚶 步行約10分鐘 或 🚇 地鐵1站", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/cLGoGwxBVaScqiF27", img: "https://www.jrtimes.tw/upload/list/c16a628a-d5c0-4f27-838c-2cb94dd10a8c.jpg", guideKey: "skytree" },
-            { time: "15:15 – 17:00", title: "🍮 東京車站–治一郎專賣店 (布丁&年輪蛋糕)", desc: "📍 八重洲地下街 / 必買超濃郁綿密治一郎布丁！", type: "food", tag: "🍜 美食", map: "https://maps.app.goo.gl/mkhbPkCBTbJWhRBD6", img: "https://live.staticflickr.com/65535/54593167113_476c83091c_c.jpg", guideKey: "skytree" },
-            { time: "17:00 – 17:40", title: "🚊 東京車站 ➔ 台場 (新橋轉百合海鷗號)", desc: "🚇 山手線至新橋轉乘百合海鷗號至台場海濱公園約30分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Odaiba+Marine+Park+Station", img: "https://travel.rakuten.co.jp/mytrip/sites/mytrip/files/styles/main_image/public/migration_article_images/ranking/spot-odaiba-key.jpg?itok=XBRmwyWT" },
-            { time: "17:40 – 20:30", title: "🎆 台場–海濱公園 ＆ 東京灣煙火夜景", desc: "🚶 步行3分鐘 / 獨角獸鋼彈、彩虹大橋與夜間煙火美景", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Odaiba+Marine+Park", img: "https://cdn2.ettoday.net/images/3763/e3763802.jpg" },
-            { time: "20:30 – 21:15", title: "🏨 台場 ➔ 返回錦糸町", desc: "🚇 電車約40分鐘返回飯店休息", type: "transit", tag: "🏨 住宿", map: "https://maps.app.goo.gl/FNJt1Qgp63BxqM2u8", img: "https://ak-d.tripcdn.com/images/1mc2512000irt3iidAFDA_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F", guideKey: "kinshicho" }
+            { time: "09:30", title: "🏨 從錦糸町出發", desc: "🚶 步行至半藏門線", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/kqkJRoWAyMvqi6E66", img: "https://resources.matcha-jp.com/resize/480x2000/2020/03/23-99913.webp", guideKey: "kinshicho" },
+            { time: "10:00 – 10:30", title: "📍 日本橋–Pokémon center Tokyo DX", desc: "🚶 日本橋高島屋5F ", type: "shop", tag: "🛍️ 購物", map: "https://www.google.com/maps/search/?api=1&query=Nihonbashi", img: "https://i.ytimg.com/vi/agwBTp0TlVY/mqdefault.jpg" },
+            { time: "11:00 – 11:10", title: "🚊 日本橋 ➔ 東京車站", desc: "🚶 步行約10分鐘 或 🚇 地鐵1站", type: "transit", tag: "🚶 步行", map: "https://maps.app.goo.gl/cLGoGwxBVaScqiF27", img: "https://www.jrtimes.tw/upload/list/c16a628a-d5c0-4f27-838c-2cb94dd10a8c.jpg", guideKey: "skytree" },
+            { time: "11:15 – 13:00", title: "🍮 東京車站–治一郎專賣店 (布丁&年輪蛋糕)", desc: "📍 八重洲地下街 / 必買超濃郁綿密治一郎布丁！", type: "food", tag: "🍜 美食", map: "https://maps.app.goo.gl/mkhbPkCBTbJWhRBD6", img: "https://live.staticflickr.com/65535/54593167113_476c83091c_c.jpg", guideKey: "skytree" },
+            { time: "16:50 – 17:30", title: "🚊 東京車站 ➔ 台場 (新橋轉百合海鷗號)", desc: "🚇 山手線至新橋轉乘百合海鷗號至台場海濱公園約30分鐘", type: "transit", tag: "🚇 電車", map: "https://www.google.com/maps/search/?api=1&query=Odaiba+Marine+Park+Station", img: "https://travel.rakuten.co.jp/mytrip/sites/mytrip/files/styles/main_image/public/migration_article_images/ranking/spot-odaiba-key.jpg?itok=XBRmwyWT" },
+            { time: "17:30 – 21:00", title: "🎆 台場–海濱公園 ＆ 東京灣煙火夜景", desc: "🚶 步行3分鐘 / 獨角獸鋼彈、彩虹大橋與夜間煙火美景", type: "anime", tag: "📸 景點", map: "https://www.google.com/maps/search/?api=1&query=Odaiba+Marine+Park", img: "https://cdn2.ettoday.net/images/3763/e3763802.jpg" },
+            { time: "21:10 – 22:00", title: "🏨 台場 ➔ 返回錦糸町", desc: "🚇 電車約40分鐘返回飯店休息", type: "transit", tag: "🏨 住宿", map: "https://maps.app.goo.gl/FNJt1Qgp63BxqM2u8", img: "https://ak-d.tripcdn.com/images/1mc2512000irt3iidAFDA_W_1280_853_R5.webp?proc=watermark/image_trip1,l_ne,x_16,y_16,w_67,h_16;digimark/t_image,logo_tripbinary;ignoredefaultwm,1A8F", guideKey: "kinshicho" }
         ]
     },
     {
